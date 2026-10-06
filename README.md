@@ -7,7 +7,6 @@
   <img src="https://img.shields.io/github/followers/suraweera-agss?label=Followers&style=social" alt="GitHub Followers"/>
 </p>
 
-
 ### 🌐 Connect with me:
 <p align="left">
   <a href="https://www.linkedin.com/in/ladislao-alvarez-deagustini-02269839b/" target="_blank">
@@ -16,12 +15,6 @@
   <a href="https://github.com/LadislaoAlvarez16" target="_blank">
     <img src="https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white" alt="GitHub" />
   </a>
-</p>
-
----
-
-<p align="center">
-  <img src="https://i.imgur.com/dBaSKWF.gif" alt="Coding GIF" width="400" />
 </p>
 
 ---
